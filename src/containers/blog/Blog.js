@@ -1,6 +1,8 @@
 import React from "react";
 import "./blog.css";
 
-export const Blog = () => {
+const Blog = () => {
   return <div></div>;
 };
+
+export default Blog;

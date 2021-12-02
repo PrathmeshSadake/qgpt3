@@ -10,6 +10,8 @@ import {
 } from "./containers/index";
 import { Brand, CTA, Navbar } from "./components/index";
 
+import "./App.css";
+
 const App = () => {
   return (
     <div className="App">
